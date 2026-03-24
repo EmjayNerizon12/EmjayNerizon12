@@ -50,7 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40" height="40" alt="Discord.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-  <img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="Codex" />
 </p>
 
 ---
@@ -65,11 +64,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=EmjayNerizon12&hide_border=true&background=0d1117&border=30363d&stroke=2ea043&ring=7ee787&fire=2ea043&currStreakLabel=7ee787&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" alt="GitHub streak" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmjayNerizon12&theme=github_dark&utcOffset=8" alt="Productive time" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EmjayNerizon12&theme=github_dark" alt="Repos per language" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EmjayNerizon12&theme=github_dark" alt="Most commit language" height="165" />
 </p>
 
 <p align="center">

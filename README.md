@@ -72,6 +72,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EmjayNerizon12&theme=github_dark" alt="Most commit language" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmjayNerizon12&bg_color=0d1117&color=c9d1d9&line=2ea043&point=7ee787&area=true&area_color=2ea043&title_color=7ee787&hide_border=true" alt="Contribution graph" />
+</p>
+
 ---
 
 ### Featured Projects

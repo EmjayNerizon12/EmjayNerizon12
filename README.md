@@ -1,14 +1,17 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi, I'm Emjay Nerizon</h1>
-<p align="center">A passionate Web Developer and Backend Specialist</p>
+<p align="center">Web Developer focused on backend systems, practical products, and clean user experiences.</p>
 
 <p align="center">
   <a href="https://github.com/EmjayNerizon12">
-    <img src="https://komarev.com/ghpvc/?username=EmjayNerizon12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=EmjayNerizon12&label=Profile%20views&color=2ea043&style=flat" alt="Profile views" />
   </a>
   <a href="https://github.com/EmjayNerizon12?tab=followers">
-    <img src="https://img.shields.io/github/followers/EmjayNerizon12?label=Followers&style=flat&color=1f6feb" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/EmjayNerizon12?label=Followers&style=flat&color=238636" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/EmjayNerizon12?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Explore-2ea043?style=flat" alt="Projects badge" />
   </a>
 </p>
 
@@ -16,9 +19,17 @@
 
 ### About Me
 
-- I specialize in **PHP, Laravel**, and full-stack web development.
-- I'm confident with both frontend and backend technologies.
-- I enjoy building real-world systems that solve practical user problems.
+- I build full-stack web applications with a strong focus on **PHP**, **Laravel**, and backend workflows.
+- I enjoy turning real-world processes into systems that are easier to use, track, and maintain.
+- I like working across the stack, from database design to polished frontend interfaces.
+
+---
+
+### What's New
+
+- Expanded my stack icons to include more of the tools I use.
+- Refreshed the profile layout with stronger stats, highlights, and cleaner sections.
+- Tuned the widget colors to match GitHub's green theme more closely.
 
 ---
 
@@ -47,23 +58,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40" height="40" alt="Discord.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+  <img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="Codex" />
 </p>
 
 ---
 
-### GitHub Stats and Widgets
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmjayNerizon12&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmjayNerizon12&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EmjayNerizon12&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=2ea043&border_color=30363d" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmjayNerizon12&layout=compact&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&border_color=30363d" alt="Top languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=EmjayNerizon12&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=EmjayNerizon12&hide_border=true&background=0d1117&border=30363d&stroke=2ea043&ring=7ee787&fire=2ea043&currStreakLabel=7ee787&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmjayNerizon12&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmjayNerizon12&bg_color=0d1117&color=c9d1d9&line=2ea043&point=7ee787&area=true&area_color=2ea043&title_color=7ee787&hide_border=true" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EmjayNerizon12&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1" alt="GitHub trophies" />
 </p>
 
 ---
@@ -78,6 +94,14 @@
 
 ---
 
+### Current Focus
+
+- Building reliable web systems with Laravel and MySQL.
+- Exploring modern JavaScript tools like React, Node.js, and Discord.js.
+- Improving deployment and development workflows with Docker and better tooling.
+
+---
+
 ### GitHub Repositories
 
 [See my repositories here](https://github.com/EmjayNerizon12?tab=repositories)
@@ -86,6 +110,6 @@
 
 ### Contact Me
 
-- Email: **EmjayNerizon12@gmail.com**
-- Facebook: [fb.com/EmjayNerizon12](https://facebook.com/EmjayNerizon12)
+- Email: **emjaynerizon@gmail.com**
+- Facebook: [fb.com/emjaynerizon](https://facebook.com/emjaynerizon)
 - GitHub: [github.com/EmjayNerizon12](https://github.com/EmjayNerizon12)

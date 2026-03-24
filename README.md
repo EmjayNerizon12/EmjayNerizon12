@@ -84,65 +84,71 @@
 
 ### Top Repositories
 
-<p align="center">
-  <a href="https://github.com/EmjayNerizon12/dcp-inventory-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmjayNerizon12&repo=dcp-inventory-management-system&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=2ea043&border_color=30363d" alt="DCP Inventory Management System repository card" />
-  </a>
-  <a href="https://github.com/EmjayNerizon12/basic-portfolio-builder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmjayNerizon12&repo=basic-portfolio-builder&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=2ea043&border_color=30363d" alt="Basic Portfolio Builder repository card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/EmjayNerizon12/dcp-inventory-management-system">
-    <img src="https://img.shields.io/github/stars/EmjayNerizon12/dcp-inventory-management-system?style=flat&color=2ea043&label=Stars" alt="DCP stars" />
-  </a>
-  <a href="https://github.com/EmjayNerizon12/dcp-inventory-management-system/network/members">
-    <img src="https://img.shields.io/github/forks/EmjayNerizon12/dcp-inventory-management-system?style=flat&color=238636&label=Forks" alt="DCP forks" />
-  </a>
-  <a href="https://github.com/EmjayNerizon12/dcp-inventory-management-system/commits">
-    <img src="https://img.shields.io/github/last-commit/EmjayNerizon12/dcp-inventory-management-system?style=flat&color=1f6feb&label=Last%20Commit" alt="DCP last commit" />
-  </a>
-  <a href="https://github.com/EmjayNerizon12/dcp-inventory-management-system">
-    <img src="https://img.shields.io/github/languages/top/EmjayNerizon12/dcp-inventory-management-system?style=flat&color=30363d&label=Top%20Language" alt="DCP top language" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/EmjayNerizon12/basic-portfolio-builder">
-    <img src="https://img.shields.io/github/stars/EmjayNerizon12/basic-portfolio-builder?style=flat&color=2ea043&label=Stars" alt="Portfolio stars" />
-  </a>
-  <a href="https://github.com/EmjayNerizon12/basic-portfolio-builder/network/members">
-    <img src="https://img.shields.io/github/forks/EmjayNerizon12/basic-portfolio-builder?style=flat&color=238636&label=Forks" alt="Portfolio forks" />
-  </a>
-  <a href="https://github.com/EmjayNerizon12/basic-portfolio-builder/commits">
-    <img src="https://img.shields.io/github/last-commit/EmjayNerizon12/basic-portfolio-builder?style=flat&color=1f6feb&label=Last%20Commit" alt="Portfolio last commit" />
-  </a>
-  <a href="https://github.com/EmjayNerizon12/basic-portfolio-builder">
-    <img src="https://img.shields.io/github/languages/top/EmjayNerizon12/basic-portfolio-builder?style=flat&color=30363d&label=Top%20Language" alt="Portfolio top language" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/EmjayNerizon12/student-management-system-django">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmjayNerizon12&repo=student-management-system-django&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=2ea043&border_color=30363d" alt="Student Management System Django repository card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/EmjayNerizon12/student-management-system-django">
-    <img src="https://img.shields.io/github/stars/EmjayNerizon12/student-management-system-django?style=flat&color=2ea043&label=Stars" alt="Student management stars" />
-  </a>
-  <a href="https://github.com/EmjayNerizon12/student-management-system-django/network/members">
-    <img src="https://img.shields.io/github/forks/EmjayNerizon12/student-management-system-django?style=flat&color=238636&label=Forks" alt="Student management forks" />
-  </a>
-  <a href="https://github.com/EmjayNerizon12/student-management-system-django/commits">
-    <img src="https://img.shields.io/github/last-commit/EmjayNerizon12/student-management-system-django?style=flat&color=1f6feb&label=Last%20Commit" alt="Student management last commit" />
-  </a>
-  <a href="https://github.com/EmjayNerizon12/student-management-system-django">
-    <img src="https://img.shields.io/github/languages/top/EmjayNerizon12/student-management-system-django?style=flat&color=30363d&label=Top%20Language" alt="Student management top language" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <a href="https://github.com/EmjayNerizon12/dcp-inventory-management-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmjayNerizon12&repo=dcp-inventory-management-system&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=2ea043&border_color=30363d" alt="DCP Inventory Management System repository card" />
+      </a>
+    </td>
+    <td width="38%" valign="middle">
+      <a href="https://github.com/EmjayNerizon12/dcp-inventory-management-system">
+        <img src="https://img.shields.io/github/stars/EmjayNerizon12/dcp-inventory-management-system?style=flat&color=2ea043&label=Stars" alt="DCP stars" />
+      </a><br />
+      <a href="https://github.com/EmjayNerizon12/dcp-inventory-management-system/network/members">
+        <img src="https://img.shields.io/github/forks/EmjayNerizon12/dcp-inventory-management-system?style=flat&color=238636&label=Forks" alt="DCP forks" />
+      </a><br />
+      <a href="https://github.com/EmjayNerizon12/dcp-inventory-management-system/commits">
+        <img src="https://img.shields.io/github/last-commit/EmjayNerizon12/dcp-inventory-management-system?style=flat&color=1f6feb&label=Last%20Commit" alt="DCP last commit" />
+      </a><br />
+      <a href="https://github.com/EmjayNerizon12/dcp-inventory-management-system">
+        <img src="https://img.shields.io/github/languages/top/EmjayNerizon12/dcp-inventory-management-system?style=flat&color=30363d&label=Top%20Language" alt="DCP top language" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="62%" valign="top">
+      <a href="https://github.com/EmjayNerizon12/basic-portfolio-builder">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmjayNerizon12&repo=basic-portfolio-builder&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=2ea043&border_color=30363d" alt="Basic Portfolio Builder repository card" />
+      </a>
+    </td>
+    <td width="38%" valign="middle">
+      <a href="https://github.com/EmjayNerizon12/basic-portfolio-builder">
+        <img src="https://img.shields.io/github/stars/EmjayNerizon12/basic-portfolio-builder?style=flat&color=2ea043&label=Stars" alt="Portfolio stars" />
+      </a><br />
+      <a href="https://github.com/EmjayNerizon12/basic-portfolio-builder/network/members">
+        <img src="https://img.shields.io/github/forks/EmjayNerizon12/basic-portfolio-builder?style=flat&color=238636&label=Forks" alt="Portfolio forks" />
+      </a><br />
+      <a href="https://github.com/EmjayNerizon12/basic-portfolio-builder/commits">
+        <img src="https://img.shields.io/github/last-commit/EmjayNerizon12/basic-portfolio-builder?style=flat&color=1f6feb&label=Last%20Commit" alt="Portfolio last commit" />
+      </a><br />
+      <a href="https://github.com/EmjayNerizon12/basic-portfolio-builder">
+        <img src="https://img.shields.io/github/languages/top/EmjayNerizon12/basic-portfolio-builder?style=flat&color=30363d&label=Top%20Language" alt="Portfolio top language" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="62%" valign="top">
+      <a href="https://github.com/EmjayNerizon12/student-management-system-django">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmjayNerizon12&repo=student-management-system-django&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=2ea043&border_color=30363d" alt="Student Management System Django repository card" />
+      </a>
+    </td>
+    <td width="38%" valign="middle">
+      <a href="https://github.com/EmjayNerizon12/student-management-system-django">
+        <img src="https://img.shields.io/github/stars/EmjayNerizon12/student-management-system-django?style=flat&color=2ea043&label=Stars" alt="Student management stars" />
+      </a><br />
+      <a href="https://github.com/EmjayNerizon12/student-management-system-django/network/members">
+        <img src="https://img.shields.io/github/forks/EmjayNerizon12/student-management-system-django?style=flat&color=238636&label=Forks" alt="Student management forks" />
+      </a><br />
+      <a href="https://github.com/EmjayNerizon12/student-management-system-django/commits">
+        <img src="https://img.shields.io/github/last-commit/EmjayNerizon12/student-management-system-django?style=flat&color=1f6feb&label=Last%20Commit" alt="Student management last commit" />
+      </a><br />
+      <a href="https://github.com/EmjayNerizon12/student-management-system-django">
+        <img src="https://img.shields.io/github/languages/top/EmjayNerizon12/student-management-system-django?style=flat&color=30363d&label=Top%20Language" alt="Student management top language" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -162,6 +168,24 @@
 
 ### Contact Me
 
-- Email: **emjaynerizon@gmail.com**
-- Facebook: [fb.com/emjaynerizon](https://facebook.com/emjaynerizon)
-- GitHub: [github.com/EmjayNerizon12](https://github.com/EmjayNerizon12)
+<p align="center">
+  I'm always open to collaborations, freelance work, and meaningful tech conversations.
+</p>
+
+<p align="center">
+  <a href="mailto:emjaynerizon@gmail.com">
+    <img src="https://img.shields.io/badge/Email-emjaynerizon%40gmail.com-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Emjay Nerizon" />
+  </a>
+  <a href="https://facebook.com/emjaynerizon">
+    <img src="https://img.shields.io/badge/Facebook-emjaynerizon-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Emjay Nerizon" />
+  </a>
+  <a href="https://github.com/EmjayNerizon12">
+    <img src="https://img.shields.io/badge/GitHub-EmjayNerizon12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Emjay Nerizon" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:emjaynerizon@gmail.com">Send an email</a> |
+  <a href="https://facebook.com/emjaynerizon">Message on Facebook</a> |
+  <a href="https://github.com/EmjayNerizon12">View GitHub profile</a>
+</p>

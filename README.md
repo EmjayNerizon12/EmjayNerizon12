@@ -72,16 +72,6 @@
 
 ---
 
-### Featured Projects
-
-| Project Name | Stack | Description |
-|---|---|---|
-| **DCP Inventory Management System** | Laravel | Manages daily stock and movement of DCP items |
-| **Customer Satisfaction Measurement** | Laravel | Gathers and evaluates feedback to measure service quality |
-| **Point of Sale System** | PHP | A lightweight POS system for retail operations |
-
----
-
 ### Top Repositories
 
 <table>

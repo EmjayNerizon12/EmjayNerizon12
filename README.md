@@ -183,9 +183,3 @@
     <img src="https://img.shields.io/badge/GitHub-EmjayNerizon12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Emjay Nerizon" />
   </a>
 </p>
-
-<p align="center">
-  <a href="mailto:emjaynerizon@gmail.com">Send an email</a> |
-  <a href="https://facebook.com/emjaynerizon">Message on Facebook</a> |
-  <a href="https://github.com/EmjayNerizon12">View GitHub profile</a>
-</p>

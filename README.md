@@ -163,10 +163,6 @@
 ### Contact Me
 
 <p align="center">
-  I'm always open to collaborations, freelance work, and meaningful tech conversations.
-</p>
-
-<p align="center">
   <a href="mailto:emjaynerizon@gmail.com">
     <img src="https://img.shields.io/badge/Email-emjaynerizon%40gmail.com-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Emjay Nerizon" />
   </a>

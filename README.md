@@ -160,12 +160,6 @@
 
 ---
 
-### GitHub Repositories
-
-[See my repositories here](https://github.com/EmjayNerizon12?tab=repositories)
-
----
-
 ### Contact Me
 
 <p align="center">

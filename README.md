@@ -1,5 +1,3 @@
-<!-- GitHub Profile README -->
-
 <h1 align="center">Hi, I'm Emjay Nerizon</h1>
 <p align="center">Web Developer focused on backend systems, practical products, and clean user experiences.</p>
 
@@ -15,22 +13,17 @@
   </a>
 </p>
 
----
-
 ### About Me
 
 - I build full-stack web applications with a strong focus on **PHP**, **Laravel**, and backend workflows.
 - I enjoy turning real-world processes into systems that are easier to use, track, and maintain.
 - I like working across the stack, from database design to polished frontend interfaces.
 
----
 
 ### Achievements
 
 - **Java Programming Champion - 2024**
 - **Database Normalization - 2nd Runner-Up - 2025**
-
----
 
 ### Technologies and Tools
 
@@ -58,8 +51,6 @@
   </tr>
 </table>
 
----
-
 ### GitHub Stats
 
 <p align="center">
@@ -75,8 +66,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmjayNerizon12&bg_color=0d1117&color=c9d1d9&line=2ea043&point=7ee787&area=true&area_color=2ea043&title_color=7ee787&hide_border=true" alt="Contribution graph" />
 </p>
-
----
 
 ### Top Repositories
 <table width="100%">
@@ -144,15 +133,12 @@
     </tr>
   </tbody>
 </table>
----
 
 ### Current Focus
 
 - Building reliable web systems with Laravel and MySQL.
 - Exploring modern JavaScript tools like React, Node.js, and Discord.js.
 - Improving deployment and development workflows with Docker and better tooling.
-
----
 
 ### Contact Me
 

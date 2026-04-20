@@ -79,22 +79,15 @@
 ---
 
 ### Top Repositories
-
 <table width="100%">
-  <thead>
-    <tr>
-      <th width="62%" align="left"></th>
-      <th width="38%" align="left"></th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <td valign="top">
+      <td width="62%" valign="top" style="border: none;">
         <a href="https://github.com/EmjayNerizon12/attendance-management-system">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmjayNerizon12&repo=attendance-management-system&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=2ea043" alt="Attendance Management System" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmjayNerizon12&repo=attendance-management-system&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&icon_color=2ea043" alt="Attendance Management System" />
         </a>
       </td>
-      <td valign="middle">
+      <td width="38%" valign="middle" style="border: none;">
         <a href="https://github.com/EmjayNerizon12/attendance-management-system">
           <img src="https://img.shields.io/github/stars/EmjayNerizon12/attendance-management-system?style=flat&color=2ea043&label=Stars" />
           <img src="https://img.shields.io/github/forks/EmjayNerizon12/attendance-management-system?style=flat&color=238636&label=Forks" />
@@ -107,13 +100,15 @@
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
       </td>
     </tr>
+  </tbody>
+  <tbody>
     <tr>
-      <td valign="top">
+      <td width="62%" valign="top" style="border: none;">
         <a href="https://github.com/EmjayNerizon12/basic-portfolio-builder">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmjayNerizon12&repo=basic-portfolio-builder&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=2ea043" alt="Portfolio Builder" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmjayNerizon12&repo=basic-portfolio-builder&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&icon_color=2ea043" alt="Portfolio Builder" />
         </a>
       </td>
-      <td valign="middle">
+      <td width="38%" valign="middle" style="border: none;">
         <a href="https://github.com/EmjayNerizon12/basic-portfolio-builder">
           <img src="https://img.shields.io/github/stars/EmjayNerizon12/basic-portfolio-builder?style=flat&color=2ea043&label=Stars" />
           <img src="https://img.shields.io/github/forks/EmjayNerizon12/basic-portfolio-builder?style=flat&color=238636&label=Forks" />
@@ -126,13 +121,15 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
       </td>
     </tr>
+  </tbody>
+  <tbody>
     <tr>
-      <td valign="top">
+      <td width="62%" valign="top" style="border: none;">
         <a href="https://github.com/EmjayNerizon12/student-management-system-django">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmjayNerizon12&repo=student-management-system-django&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=2ea043" alt="Student Management" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmjayNerizon12&repo=student-management-system-django&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&icon_color=2ea043" alt="Student Management" />
         </a>
       </td>
-      <td valign="middle">
+      <td width="38%" valign="middle" style="border: none;">
         <a href="https://github.com/EmjayNerizon12/student-management-system-django">
           <img src="https://img.shields.io/github/stars/EmjayNerizon12/student-management-system-django?style=flat&color=2ea043&label=Stars" />
           <img src="https://img.shields.io/github/forks/EmjayNerizon12/student-management-system-django?style=flat&color=238636&label=Forks" />

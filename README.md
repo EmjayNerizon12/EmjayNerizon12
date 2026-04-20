@@ -80,72 +80,64 @@
 
 ### Top Repositories
 
-<table>
+<table width="100%">
   <tr>
-    <td width="62%" valign="top">
-      <a href="https://github.com/EmjayNerizon12/dcp-inventory-management-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmjayNerizon12&repo=dcp-inventory-management-system&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=2ea043&border_color=30363d" alt="DCP Inventory Management System repository card" />
+    <td width="60%" valign="top">
+      <a href="https://github.com/EmjayNerizon12/attendance-management-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmjayNerizon12&repo=attendance-management-system&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="Attendance Management System" />
       </a>
     </td>
-    <td width="38%" valign="middle">
-      <a href="https://github.com/EmjayNerizon12/dcp-inventory-management-system">
-        <img src="https://img.shields.io/github/stars/EmjayNerizon12/dcp-inventory-management-system?style=flat&color=2ea043&label=Stars" alt="DCP stars" />
+    <td width="40%" valign="middle">
+      <a href="https://github.com/EmjayNerizon12/attendance-management-system">
+        <img src="https://img.shields.io/github/stars/EmjayNerizon12/attendance-management-system?style=flat-square&color=38bdf8&label=Stars" alt="Stars" />
       </a><br />
-      <a href="https://github.com/EmjayNerizon12/dcp-inventory-management-system/network/members">
-        <img src="https://img.shields.io/github/forks/EmjayNerizon12/dcp-inventory-management-system?style=flat&color=238636&label=Forks" alt="DCP forks" />
+      <a href="https://github.com/EmjayNerizon12/attendance-management-system/network/members">
+        <img src="https://img.shields.io/github/forks/EmjayNerizon12/attendance-management-system?style=flat-square&color=475569&label=Forks" alt="Forks" />
       </a><br />
-      <a href="https://github.com/EmjayNerizon12/dcp-inventory-management-system/commits">
-        <img src="https://img.shields.io/github/last-commit/EmjayNerizon12/dcp-inventory-management-system?style=flat&color=1f6feb&label=Last%20Commit" alt="DCP last commit" />
-      </a><br />
-      <a href="https://github.com/EmjayNerizon12/dcp-inventory-management-system">
-        <img src="https://img.shields.io/github/languages/top/EmjayNerizon12/dcp-inventory-management-system?style=flat&color=30363d&label=Top%20Language" alt="DCP top language" />
+      <a href="https://github.com/EmjayNerizon12/attendance-management-system/commits">
+        <img src="https://img.shields.io/github/last-commit/EmjayNerizon12/attendance-management-system?style=flat-square&color=1f6feb&label=Updated" alt="Last Commit" />
       </a>
     </td>
   </tr>
+
   <tr>
-    <td width="62%" valign="top">
+    <td width="60%" valign="top">
       <a href="https://github.com/EmjayNerizon12/basic-portfolio-builder">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmjayNerizon12&repo=basic-portfolio-builder&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=2ea043&border_color=30363d" alt="Basic Portfolio Builder repository card" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmjayNerizon12&repo=basic-portfolio-builder&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="Portfolio Builder" />
       </a>
     </td>
-    <td width="38%" valign="middle">
+    <td width="40%" valign="middle">
       <a href="https://github.com/EmjayNerizon12/basic-portfolio-builder">
-        <img src="https://img.shields.io/github/stars/EmjayNerizon12/basic-portfolio-builder?style=flat&color=2ea043&label=Stars" alt="Portfolio stars" />
+        <img src="https://img.shields.io/github/stars/EmjayNerizon12/basic-portfolio-builder?style=flat-square&color=38bdf8&label=Stars" alt="Stars" />
       </a><br />
       <a href="https://github.com/EmjayNerizon12/basic-portfolio-builder/network/members">
-        <img src="https://img.shields.io/github/forks/EmjayNerizon12/basic-portfolio-builder?style=flat&color=238636&label=Forks" alt="Portfolio forks" />
+        <img src="https://img.shields.io/github/forks/EmjayNerizon12/basic-portfolio-builder?style=flat-square&color=475569&label=Forks" alt="Forks" />
       </a><br />
       <a href="https://github.com/EmjayNerizon12/basic-portfolio-builder/commits">
-        <img src="https://img.shields.io/github/last-commit/EmjayNerizon12/basic-portfolio-builder?style=flat&color=1f6feb&label=Last%20Commit" alt="Portfolio last commit" />
-      </a><br />
-      <a href="https://github.com/EmjayNerizon12/basic-portfolio-builder">
-        <img src="https://img.shields.io/github/languages/top/EmjayNerizon12/basic-portfolio-builder?style=flat&color=30363d&label=Top%20Language" alt="Portfolio top language" />
+        <img src="https://img.shields.io/github/last-commit/EmjayNerizon12/basic-portfolio-builder?style=flat-square&color=1f6feb&label=Updated" alt="Last Commit" />
       </a>
     </td>
   </tr>
+
   <tr>
-    <td width="62%" valign="top">
+    <td width="60%" valign="top">
       <a href="https://github.com/EmjayNerizon12/student-management-system-django">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmjayNerizon12&repo=student-management-system-django&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=2ea043&border_color=30363d" alt="Student Management System Django repository card" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmjayNerizon12&repo=student-management-system-django&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="Student Management System" />
       </a>
     </td>
-    <td width="38%" valign="middle">
+    <td width="40%" valign="middle">
       <a href="https://github.com/EmjayNerizon12/student-management-system-django">
-        <img src="https://img.shields.io/github/stars/EmjayNerizon12/student-management-system-django?style=flat&color=2ea043&label=Stars" alt="Student management stars" />
+        <img src="https://img.shields.io/github/stars/EmjayNerizon12/student-management-system-django?style=flat-square&color=38bdf8&label=Stars" alt="Stars" />
       </a><br />
       <a href="https://github.com/EmjayNerizon12/student-management-system-django/network/members">
-        <img src="https://img.shields.io/github/forks/EmjayNerizon12/student-management-system-django?style=flat&color=238636&label=Forks" alt="Student management forks" />
+        <img src="https://img.shields.io/github/forks/EmjayNerizon12/student-management-system-django?style=flat-square&color=475569&label=Forks" alt="Forks" />
       </a><br />
       <a href="https://github.com/EmjayNerizon12/student-management-system-django/commits">
-        <img src="https://img.shields.io/github/last-commit/EmjayNerizon12/student-management-system-django?style=flat&color=1f6feb&label=Last%20Commit" alt="Student management last commit" />
-      </a><br />
-      <a href="https://github.com/EmjayNerizon12/student-management-system-django">
-        <img src="https://img.shields.io/github/languages/top/EmjayNerizon12/student-management-system-django?style=flat&color=30363d&label=Top%20Language" alt="Student management top language" />
+        <img src="https://img.shields.io/github/last-commit/EmjayNerizon12/student-management-system-django?style=flat-square&color=1f6feb&label=Updated" alt="Last Commit" />
       </a>
     </td>
   </tr>
 </table>
-
 ---
 
 ### Current Focus

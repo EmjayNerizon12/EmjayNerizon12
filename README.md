@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Emjay Nerizon</h1>
 <p align="center">Web Developer focused on backend systems, practical products, and clean user experiences.</p>
-
 <p align="center">
   <a href="https://github.com/EmjayNerizon12">
     <img src="https://komarev.com/ghpvc/?username=EmjayNerizon12&label=Profile%20views&color=2ea043&style=flat" alt="Profile views" />
@@ -11,6 +10,9 @@
   <a href="https://github.com/EmjayNerizon12?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-Explore-2ea043?style=flat" alt="Projects badge" />
   </a>
+</p>
+<p align="center">
+  <img width="540" height="304" alt="favd_metapodvsmagikarp-March 02 2016 at 09_30PM" src="https://github.com/user-attachments/assets/bc53588e-c996-4aba-b764-b26d5808524a" />
 </p>
 
 ### About Me

@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi, I'm Emjay Nerizon</h1>
 <p align="center">Web Developer focused on backend systems, practical products, and clean user experiences.</p>
 <p align="center">
@@ -12,7 +14,7 @@
   </a>
 </p>
 <p align="center">
-  <img width="540" height="304" alt="favd_metapodvsmagikarp-March 02 2016 at 09_30PM" src="https://github.com/user-attachments/assets/bc53588e-c996-4aba-b764-b26d5808524a" />
+  <img width="540" height="291" alt="download (3)" src="https://github.com/user-attachments/assets/c1a1947f-e561-474d-9212-1d539390b29f" />
 </p>
 
 ### About Me

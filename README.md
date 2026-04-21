@@ -57,6 +57,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmjayNerizon12&bg_color=0d1117&color=c9d1d9&line=2ea043&point=7ee787&area=true&area_color=2ea043&title_color=7ee787&hide_border=true" alt="Contribution graph" />
 </p>
 
+<!--
 ### Top Repositories
 <table width="100%">
   <tbody>
@@ -123,6 +124,7 @@
     </tr>
   </tbody>
 </table>
+-->
 
 ### Current Focus
 

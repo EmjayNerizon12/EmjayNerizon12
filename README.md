@@ -43,14 +43,15 @@
 
 ### GitHub Stats
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EmjayNerizon12&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=2ea043&border_color=30363d" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmjayNerizon12&layout=compact&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&border_color=30363d" alt="Top languages" height="165" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmjayNerizon12&theme=github_dark&utcOffset=8" alt="Productive time" height="165" />
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=EmjayNerizon12&hide_border=true&background=0d1117&border=30363d&stroke=2ea043&ring=7ee787&fire=2ea043&currStreakLabel=7ee787&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" alt="GitHub streak" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmjayNerizon12&theme=github_dark&utcOffset=8" alt="Productive time" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmjayNerizon12&layout=compact&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&border_color=30363d" alt="Top languages" height="165" />
 </p>
 
 <p align="center">
